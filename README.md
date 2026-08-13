@@ -54,9 +54,9 @@ The raw IPL dataset was cleaned and transformed using Power Query.
 
 ## 📁 Project Files
 
-- `IPL_Dashboard.xlsx` – Interactive Excel dashboard
-- `Dataset` – IPL dataset used for analysis
-- `Screen shots' – Dashboard preview
+- [IPL Dashboard](IPL_Dashboard.xlsx)
+- [IPL Dataset](matches.xlsx)
+- [Dashboard Preview](IPL_Dashboard.png)
 
 ## 👩‍💻 Project By
 
