@@ -51,12 +51,15 @@ The raw IPL dataset was cleaned and transformed using Power Query.
 
 <img width="1391" height="614" alt="IPL_Dashboard" src="https://github.com/user-attachments/assets/6dea9dcb-55c4-4f21-a3eb-92d16d9c82f1" />
 
-
 ## 📁 Project Files
 
 - [IPL Dashboard](IPL_Dashboard.xlsx)
 - [IPL Dataset](matches.xlsx)
 - [Dashboard Preview](IPL_Dashboard.png)
+
+## 🚀 Project Outcome
+
+Developed an interactive IPL dashboard that transformed match data into meaningful insights on team performance, player statistics, match outcomes, and seasonal trends. The dashboard enabled easy comparison of teams and players through interactive filters and visualizations, supporting data-driven analysis of IPL performance.
 
 ## 👩‍💻 Project By
 
